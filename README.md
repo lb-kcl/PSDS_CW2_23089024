@@ -2,4 +2,4 @@
 Links to 3 code notebooks for PSDS_CW2_23089024:
 banks-ppa; banks-autocorr; banks-change
 
-Links to data sources: Geolytix (2024) data and README; LAD boundaries (2024)
+Link to Geolytix (2024) data and user guide
